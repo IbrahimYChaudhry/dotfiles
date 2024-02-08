@@ -1,4 +1,4 @@
-# Assignment 6
+# dotfiles and testing
 
 ![Assignment 6](https://github.com/PGE383-HPC/assignment6-IbrahimYChaudhry/actions/workflows/main.yml/badge.svg)
 
